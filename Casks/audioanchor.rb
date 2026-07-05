@@ -1,5 +1,3 @@
-# Starter Homebrew cask. Copy into your tap (e.g. danielmeint/homebrew-tap) and fill
-# in the sha256 once you've published a notarized release zip.
 cask "audioanchor" do
   version "0.1.0"
   sha256 "edb171e7f578d02bbe57ef4978a7c41a7219d91f00e215d3b04014786b1e47c3"
