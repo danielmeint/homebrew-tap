@@ -18,8 +18,8 @@ brew install --cask audioanchor
 
 ## nextdnsctl
 
-Manage NextDNS profiles declaratively from the command line. See
-[danielmeint/nextdnsctl](https://github.com/danielmeint/nextdnsctl).
+Bulk-edit, import and back up NextDNS denylists and allowlists from the command line.
+See [danielmeint/nextdnsctl](https://github.com/danielmeint/nextdnsctl).
 
 ```sh
 brew tap danielmeint/tap
