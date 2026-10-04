@@ -1,7 +1,7 @@
 class Nextdnsctl < Formula
   include Language::Python::Virtualenv
 
-  desc "Command-line tool to manage NextDNS profiles declaratively"
+  desc "Bulk-edit, import and back up NextDNS denylists and allowlists"
   homepage "https://github.com/danielmeint/nextdnsctl"
   url "https://files.pythonhosted.org/packages/0f/e9/af8e545242c0a61814a80480418417abbc56e3b0965de9e647286c686dc6/nextdnsctl-2.0.0.tar.gz"
   sha256 "081ec61c81bc1b55874517be97b35f475cd2d6a1c142a6282dc1eac3f576ec3f"
