@@ -3,8 +3,8 @@ class Nextdnsctl < Formula
 
   desc "Bulk-edit, import and back up NextDNS denylists and allowlists"
   homepage "https://github.com/danielmeint/nextdnsctl"
-  url "https://files.pythonhosted.org/packages/0f/e9/af8e545242c0a61814a80480418417abbc56e3b0965de9e647286c686dc6/nextdnsctl-2.0.0.tar.gz"
-  sha256 "081ec61c81bc1b55874517be97b35f475cd2d6a1c142a6282dc1eac3f576ec3f"
+  url "https://files.pythonhosted.org/packages/4d/0d/419f816e5fdfad2b40a01b61109525231fee7e05f1d54de0e4cfcf7ba666/nextdnsctl-2.0.1.tar.gz"
+  sha256 "6e191b2d4ed33f07e816abe01688faa7a6274a228e0b8f1467dad5b894d5deb0"
   license "MIT"
 
   depends_on "libyaml"
