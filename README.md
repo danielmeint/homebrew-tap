@@ -22,7 +22,9 @@ Manage NextDNS profiles declaratively from the command line. See
 [danielmeint/nextdnsctl](https://github.com/danielmeint/nextdnsctl).
 
 ```sh
-brew install danielmeint/tap/nextdnsctl
+brew tap danielmeint/tap
+brew trust danielmeint/tap
+brew install nextdnsctl
 ```
 
 The formula is regenerated from PyPI by nextdnsctl's publish workflow on every release.
